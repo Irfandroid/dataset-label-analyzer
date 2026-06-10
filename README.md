@@ -24,7 +24,7 @@ img5.jpg,bus
 img6.jpg,truck
 img7.jpg,bike
 img8.jpg,Car
-<img width="65" height="201" alt="image" src="https://github.com/user-attachments/assets/6d74aff6-4a29-4607-9c04-7d77990e1557" />
+
 
 ```
 
